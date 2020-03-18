@@ -1,4 +1,4 @@
-#### Program çalıştığında (Screenshot.png) adına sahip olan görseldeki ekran karşımıza gelmektedir. Programın nasıl çalıştığına dair şu bilgiler verilmektedir;
+#### Program çalıştığında (Screenshot) adına sahip olan görseldeki ekran karşımıza gelmektedir. Programın nasıl çalıştığına dair şu bilgiler verilmektedir;
 
 •	Veri giriş operatörleri ve metinler ile ilgili bilgilerin dosyalardan (girdi01.txt gibi) alınmış olup yanlış girilen kelimelerin metinde düzeltilmiş hali.
 
